@@ -1,7 +1,7 @@
 hello-world
 ===========
 
-My General storage for ideas, code snippets etc.
+My General storage for project ideas, code snippets etc.
 
 I am a hobbyist maker and love to tinker and work on small electronics projects and hacks on various platforms - from Arduino over PicAxe and STM32 to Raspberry Pi.
 
