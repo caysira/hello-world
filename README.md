@@ -1,4 +1,5 @@
 hello-world
 ===========
 
-My General storage for ideas, code snippets etc.
+My General storage for project ideas, code snippets etc.
+
